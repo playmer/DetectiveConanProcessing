@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConanProcessing": {
+      "commandName": "Project",
+      "workingDirectory": "F:\\Repos\\ConanProcessing"
+    }
+  }
+}
